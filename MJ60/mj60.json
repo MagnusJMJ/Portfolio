@@ -1,0 +1,170 @@
+[
+  {
+    "backcolor": "",
+    "name": "MJ60",
+    "author": "Magnus Johansen",
+    "notes": "An experimental ISO-DK layout for a 60% mechanical keyboard. The layout combines ISO-DK legends (rather than the more common ISO-NOR) with an ANSI-style physical layout. It also features HHKB-style modifiers (omitted Ctrl keys, Ctrl instead of Caps Lock) and a 1U Backspace to accommodate the extra alpha needed for ISO while keeping the 2.25U LShift from the ANSI layout. The layout is designed for standard Cherry- or DCS-profile keycaps, with a R1, R2, R3, R4, R4 arrangement.",
+    "background": {
+      "name": "Bamboo",
+      "style": "background-image: url('/bg/wood/bamboo.jpg');"
+    },
+    "radii": "10px 10px 10% 10%",
+    "switchMount": "cherry",
+    "plate": true
+  },
+  [
+    {
+      "c": "#a3a3a3",
+      "p": "DCS R1",
+      "f": 4
+    },
+    "Afbr.\n\n\n<i class='mss mss-Unicode-Escape-3'></i>",
+    {
+      "c": "#cccccc"
+    },
+    "!\n1",
+    "\"\n2\n\n@",
+    "#\n3\n\n£",
+    "¤\n4\n\n$",
+    "%\n5",
+    "&\n6",
+    "/\n7\n\n{",
+    "(\n8\n\n[",
+    ")\n9\n\n]",
+    "=\n0\n\n}",
+    "?\n+",
+    "`\n´\n\n|",
+    ">\n<\n\n\\",
+    {
+      "c": "#a3a3a3"
+    },
+    "\n<i class='kb kb-Arrows-Left'></i>\nSlet"
+  ],
+  [
+    {
+      "p": "DCS R2",
+      "w": 1.5
+    },
+    "Tabulator\n\n\n<i class='kb kb-Line-End'></i>",
+    {
+      "c": "#cccccc"
+    },
+    "Q",
+    "W",
+    "E\n\n\n€",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O\n\n\n\nIns",
+    "P\n\n\n\nHome",
+    "Å\n\n\n\nPgUp",
+    "^\n¨\n\n~",
+    {
+      "c": "#a3a3a3",
+      "w": 1.5
+    },
+    "*\n'"
+  ],
+  [
+    {
+      "p": "DCS R3",
+      "w": 1.75
+    },
+    "Kontrol\n\n\n<i class='kb kb-Multimedia-Down'></i>",
+    {
+      "c": "#cccccc"
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    "H",
+    {
+      "n": true
+    },
+    "J",
+    "K",
+    "L\n\n\n\nDel",
+    "Æ\n\n\n\nEnd",
+    "Ø\n\n\n\nPgDn",
+    {
+      "c": "#a3a3a3",
+      "w": 2.25
+    },
+    "\n<i class='kb kb-Return-2'></i>\nBekræft"
+  ],
+  [
+    {
+      "p": "DCS R4",
+      "w": 2.25
+    },
+    "Skift\n\n\n<i class='kb kb-Multimedia-Up'></i>",
+    {
+      "c": "#cccccc"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M\n\n\nµ",
+    ";\n,",
+    ":\n.",
+    "_\n-",
+    {
+      "c": "#a3a3a3",
+      "w": 2.75
+    },
+    "\n<i class='kb kb-Multimedia-Up'></i>\nSkift"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "t": "#bd8b48",
+      "a": 7,
+      "w": 1.5,
+      "d": true
+    },
+    "Made in Denmark",
+    {
+      "c": "#a3a3a3",
+      "t": "#000000",
+      "a": 4
+    },
+    "Meta\n\n\n<i class='mss mss-Unicode-Command-3'></i>",
+    {
+      "w": 1.5
+    },
+    "Alt.\n\n\n<i class='mss mss-Unicode-Option-3'></i>",
+    {
+      "c": "#cccccc",
+      "p": "DCS SPACE",
+      "a": 7,
+      "w": 7
+    },
+    "",
+    {
+      "c": "#a3a3a3",
+      "p": "DCS R4",
+      "a": 4,
+      "w": 1.5
+    },
+    "\n<i class='mss mss-Unicode-Option-3'></i>\nAlt. Gr.",
+    "\n\nFn.",
+    {
+      "t": "#bd8b48",
+      "a": 7,
+      "f": 9,
+      "w": 1.5,
+      "d": true
+    },
+    "MJ60"
+  ]
+]

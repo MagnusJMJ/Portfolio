@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title> miniex8 - Rock, paper, scissors </title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <!-- The screen shown on startup -->
+    <div id="initialState">
+      <h1> Choose your weapon. </h1>
+      <input id="rock" type="image" src="assets/rock.png"/>
+      <input id="paper" type="image" src="assets/paper.png"/>
+      <input id="scissors" type="image" src="assets/scissors.png"/>
+    </div>
+
+    <!-- "loading"... -->
+    <img id="throbber" src="assets/throbber.gif"/>
+
+    <!-- the screen shown when the game is over -->
+    <div id="resolvedState">
+      <h1 id="resolvedHeader"> default </h1>
+      <p id="retryButton"> Try again? </p>
+      <img id="myChoice" src=""/>
+      <img id="oppChoice" src=""/>
+    </div>
+  </body>
+</html>
+
+<!-- external script and stylesheet -->
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script type="text/javascript" src="miniexercise8.js" ></script>

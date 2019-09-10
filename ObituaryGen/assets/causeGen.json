@@ -1,0 +1,13 @@
+{
+  "<start>": "<wasKilled> <bySomething> <sideNote>",
+  "<wasKilled>":
+  "was killed by | passed away due to | escaped this mortal coil by way of | was freed of their earthly chains by | was felled by the righteous blade of | was absolutely destroyed by | fought, and lost, against | was mauled by | got nipped by | was no match for | was vanquished by | fell victim to | succumbed, at last, to",
+  "<bySomething>":
+  "the unstoppable tide of late-stage capitalism. | africanized honey bees. | a flock of deer. | weaponized rabbits. | Facebook. | a run-away self-driving car. | a mob of angry farmers with pitchforks. | an orca. | the struggles of programming. |the butler. | the spanish inquisition. | a wayward parrot. | a cannibalistic librarian. | mormons. | gravity. | Harry Potter fans. |  finger-puppets. | an angry grizzly-bear. | the power of love. | total societal collapse. | a combine harvester. | the music industry. | medieval re-enacters. | Donald Trump. | Vladimir Putin. | a time-travelling Gestapo death-squad. | a tow-truck. | an ancient and mystical force. | the patriarchy. | communism. | a madman with an axe. | their conscience. | a dose of horse tranquilizers that could kill a blue-whale.",
+  "<sideNote>":
+  "<sideNoteType1> | <sideNoteType2>",
+  "<sideNoteType1>":
+  "The funeral will be held in the family scrapyard. | Pagan rituals at the funeral are encouraged. | The ashes will be spread in their ex's apartment. | In lieu of flowers, donations may be made to the Idaho Center of Fungus Research. | Flowers are prohibited at the service, as the deceased is prone to allergy. | The incident is thought to be a plot by the KGB. | The wake will be held in the raccoon room in the Cincinnati Zoo, at the request of the family. | The funeral will be televised. | The service will be pre-1700's attire only.",
+  "<sideNoteType2>":
+  "They will live on in our hearts for like, at least five years. | The Emperor protects. | They are now reunited with God. Or Satan. | They are now reunited with Cthulhu. | Their last words were 'delete my browser history'. | Their last words were 'jet fuel can't melt steel beams'. | And it was totally rad. | And it was totally sick. | #RIP in piece. | Good riddance to bad rubbish."
+}
